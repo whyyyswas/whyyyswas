@@ -4,7 +4,7 @@
 
 # Swastika Ghosh
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=AI+%26+ML+Engineer;Software+Developer;Machine+Learning+Enthusiast;Building+Intelligent+Systems;Turning+Ideas+Into+Impactful+Solutions"/>
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=42&pause=100000&color=C9A227&center=true&vCenter=true&width=700&lines=Swastika+Ghosh"/>
 
 <br>
 
@@ -13,13 +13,13 @@
 ---
 ## 🚀 About Me
 
-🎓 Pre-final Year B.Tech in Computer Science (AI & ML) at IEM, Kolkata
- 📌 FinSight accepted at ICDMAI 10th Edition
- 🏅 Finalist — Square Hacks, IIT Delhi
- 💻 Passionate about AI, Machine Learning, and Software Engineering
- ⚡ Exploring Deep Learning, System Design, and Scalable Backends
- 🌱 Seeking ML Engineering, Software Development, and Full Stack Opportunities
- 🤝 Open to internships, collaborations, and impactful projects
+- 🎓 Pre-final Year B.Tech in Computer Science (AI & ML) at IEM, Kolkata
+- 📌 FinSight accepted at ICDMAI 10th Edition
+- 🏅 Finalist — Square Hacks, IIT Delhi
+- 💻 Passionate about AI, Machine Learning, and Software Engineering
+- ⚡ Exploring Deep Learning, System Design, and Scalable Backends
+- 🌱 Seeking ML Engineering, Software Development, and Full Stack Opportunities
+- 🤝 Open to internships, collaborations, and impactful projects
 
 <br/>
 🔗 Connect with me
