@@ -1,4 +1,16 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Hi%20there,%20I'm%20Swastika%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20B.Tech%20CSE%20(AI%26ML)&descAlignY=60&descSize=16"/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/whyyyswas/whyyyswas/main/assets/cover-banner.svg" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=2DD4BF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Swastika+Ghosh;AI%2FML+Engineer+%7C+Full+Stack+Developer;Building+TarmacSkin+2.0%2C+MicroClag+%26+more;Seeking+ML+%26+SWE+internships+for+2026" alt="Typing SVG" />
+</a>
+
+</div>
 
 <br/>
 
@@ -6,19 +18,19 @@
 
 - 🎓 Final year B.Tech student in **Computer Science (AI & ML)** at IEM, Kolkata
 - 🛠️ Building things at the intersection of ML, full stack dev, and real-world impact
-- 📌 Project highlights: **TarmacSkin 2.0** (accepted at ICDMAI 10th Edition), **MicroClag**, **Smart Invoice Analyser**
 - 🏅 Finalist — Square Hacks, IIT Delhi
 - ⚡ Currently exploring deep learning, system design, and scalable backends
+- 🌱 Seeking ML engineering and full stack internships / collaborations
 
 <br/>
 
 ### 🔗 Connect with me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/swastika-ghosh-741a6128a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/okayyswas_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="mailto:swastika.placeholder@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/whyyyswas" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/swastika-ghosh-741a6128a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=2DD4BF"/></a>
+<a href="https://www.instagram.com/okayyswas_" target="_blank"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=2DD4BF"/></a>
+<a href="mailto:amiswastika4@email.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=2DD4BF"/></a>
+<a href="https://github.com/whyyyswas" target="_blank"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=2DD4BF"/></a>
 </p>
 
 <br/>
@@ -37,12 +49,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=whyyyswas&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=whyyyswas&theme=dark&hide_border=true&background=0d1117"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=whyyyswas&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=2DD4BF&icon_color=22D3EE&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=whyyyswas&theme=dark&hide_border=true&background=0d1117&ring=2DD4BF&fire=22D3EE&currStreakLabel=2DD4BF"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyyyswas&layout=compact&theme=dark&hide_border=true&bg_color=0d1117"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyyyswas&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=2DD4BF&text_color=c9d1d9"/>
 </p>
 
 <br/>
@@ -50,7 +62,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=whyyyswas&theme=react-dark&hide_border=true&bg_color=0d1117"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=whyyyswas&theme=react-dark&hide_border=true&bg_color=0d1117&color=2DD4BF&line=22D3EE&point=ffffff"/>
 </p>
 
 <br/>
@@ -63,4 +75,6 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer"/>
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:06141B&height=120&section=footer"/>
+</div>
