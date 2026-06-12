@@ -13,13 +13,13 @@
 ---
 ## 🚀 About Me
 
-- 🎓 Pre-final Year B.Tech in Computer Science (AI & ML) at IEM, Kolkata
-- 📌 FinSight accepted at ICDMAI 10th Edition
-- 🏅 Finalist — Square Hacks, IIT Delhi
-- 💻 Passionate about AI, Machine Learning, and Software Engineering
-- ⚡ Exploring Deep Learning, System Design, and Scalable Backends
-- 🌱 Seeking ML Engineering, Software Development, and Full Stack Opportunities
-- 🤝 Open to internships, collaborations, and impactful projects
+🎓 Pre-final Year B.Tech in Computer Science (AI & ML) at IEM, Kolkata
+ 📌 FinSight accepted at ICDMAI 10th Edition
+ 🏅 Finalist — Square Hacks, IIT Delhi
+ 💻 Passionate about AI, Machine Learning, and Software Engineering
+ ⚡ Exploring Deep Learning, System Design, and Scalable Backends
+ 🌱 Seeking ML Engineering, Software Development, and Full Stack Opportunities
+ 🤝 Open to internships, collaborations, and impactful projects
 
 <br/>
 🔗 Connect with me
