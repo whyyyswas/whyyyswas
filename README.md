@@ -142,8 +142,6 @@
 
 ---
 
----
-
 <div align="center">
 
 ### "Engineering intelligent solutions that create meaningful impact."
