@@ -33,7 +33,7 @@
 
 <h2 align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=OUTFIT&weight=700&size=34&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=%E3%80%88%E3%80%89+Tech+Stack+%E3%80%88%E3%80%89;%3C%2F%3E+Tech+Stack+%3C%2F%3E;%7B+Tech+Stack+%7D" />
+<img src="https://readme-typing-svg.demolab.com?font=OUTFIT&weight=700&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=%E3%80%88%E3%80%89+Tech+Stack+%E3%80%88%E3%80%89;%3C%2F%3E+Tech+Stack+%3C%2F%3E;%7B+Tech+Stack+%7D" />
 
 </h2>
 <div align="center">
