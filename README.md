@@ -36,18 +36,43 @@
 <img src="https://readme-typing-svg.demolab.com?font=OUTFIT&weight=700&size=34&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=%E3%80%88%E3%80%89+Tech+Stack+%E3%80%88%E3%80%89;%3C%2F%3E+Tech+Stack+%3C%2F%3E;%7B+Tech+Stack+%7D" />
 
 </h2>
+<div align="center">
 
-<p align="center">
+<table>
+<tr>
 
-<img src="https://skillicons.dev/icons?i=c,css,docker,html,java,js,nodejs,mongodb,postgres,mysql,nextjs,arduino&theme=dark"/>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="55"/></td>
 
-<br>
+</tr>
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,git,github,tensorflow,pytorch,python,flask&theme=dark"/>
+<tr>
 
-<img src="https://cdn.simpleicons.org/raspberrypi/A22846" height="48"/>
+<td><img src="https://cdn.simpleicons.org/arduino/00C2FF" width="55"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="55"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="55"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="55"/></td>
+<td><img src="https://cdn.simpleicons.org/raspberrypi/A22846" width="55"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55"/></td>
 
-</p>
+</tr>
+</table>
+
+</div>
 
 ---
 
