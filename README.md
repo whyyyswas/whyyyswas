@@ -29,37 +29,23 @@
 <a href="https://github.com/whyyyswas" target="_blank"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=2DD4BF"/></a>
 </p>
 <br/>
-🧰 Tech Stack
 
-<h2 align="center">〈〉 Tech Stack 〈〉</h2>
+
+<h2 align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=OUTFIT&weight=700&size=34&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=%E3%80%88%E3%80%89+Tech+Stack+%E3%80%88%E3%80%89;%3C%2F%3E+Tech+Stack+%3C%2F%3E;%7B+Tech+Stack+%7D" />
+
+</h2>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
-<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
-<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=node.js&logoColor=339933"/>
-<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
-<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
-<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF"/>
+<img src="https://skillicons.dev/icons?i=c,css,docker,html,java,js,nodejs,mongodb,postgres,mysql,nextjs,arduino&theme=dark"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=arduino&logoColor=00979D"/>
-<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
-<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=matlab&logoColor=FF6F00"/>
-<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
-<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
-<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=raspberrypi&logoColor=A22846"/>
-<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=flask&logoColor=FFFFFF"/>
+<img src="https://skillicons.dev/icons?i=react,tailwind,git,github,tensorflow,pytorch,python,flask&theme=dark"/>
+
+<img src="https://cdn.simpleicons.org/raspberrypi/A22846" height="48"/>
 
 </p>
 
