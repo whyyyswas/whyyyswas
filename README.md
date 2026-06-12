@@ -114,10 +114,5 @@
 
 ---
 
-<div align="center">
-
-### "Engineering intelligent solutions that create meaningful impact."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:6C63FF,50:7C3AED,100:4F46E5"/>
 
 </div>
