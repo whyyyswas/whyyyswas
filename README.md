@@ -17,10 +17,6 @@
 ### 🚀 About Me
 
 - 🎓 Pre-final year B.Tech student in **Computer Science (AI & ML)** at IEM, Kolkata
-- 🔬 Ex-Research Intern @ **IISc Bangalore**
-- 🏆 Winner @ Arjuna Hackathon | Finalist @ ISRO Space Hackathon | Co-Founder @ Binary Learn
-- 🛠️ Building things at the intersection of ML, full stack dev, and real-world impact
-- 📌 Project highlights: **TarmacSkin 2.0** (accepted at ICDMAI 10th Edition), **MicroClag**, **Smart Invoice Analyser**
 - 🏅 Finalist — Square Hacks, IIT Delhi
 - ⚡ Currently exploring deep learning, system design, and scalable backends
 - 🌱 Seeking ML engineering and full stack internships / collaborations
