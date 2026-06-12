@@ -16,8 +16,11 @@
 
 ### 🚀 About Me
 
-- 🎓 Final year B.Tech student in **Computer Science (AI & ML)** at IEM, Kolkata
+- 🎓 Pre-final year B.Tech student in **Computer Science (AI & ML)** at IEM, Kolkata
+- 🔬 Ex-Research Intern @ **IISc Bangalore**
+- 🏆 Winner @ Arjuna Hackathon | Finalist @ ISRO Space Hackathon | Co-Founder @ Binary Learn
 - 🛠️ Building things at the intersection of ML, full stack dev, and real-world impact
+- 📌 Project highlights: **TarmacSkin 2.0** (accepted at ICDMAI 10th Edition), **MicroClag**, **Smart Invoice Analyser**
 - 🏅 Finalist — Square Hacks, IIT Delhi
 - ⚡ Currently exploring deep learning, system design, and scalable backends
 - 🌱 Seeking ML engineering and full stack internships / collaborations
@@ -29,7 +32,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/swastika-ghosh-741a6128a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=2DD4BF"/></a>
 <a href="https://www.instagram.com/okayyswas_" target="_blank"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=2DD4BF"/></a>
-<a href="mailto:amiswastika4@email.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=2DD4BF"/></a>
+<a href="mailto:swastika.placeholder@email.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=2DD4BF"/></a>
 <a href="https://github.com/whyyyswas" target="_blank"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=2DD4BF"/></a>
 </p>
 
