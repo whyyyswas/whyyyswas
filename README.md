@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=42&pause=100000&color=FCFEFF0&center=true&vCenter=true&width=700&lines=Swastika+Ghosh"/>
+<img src="https://readme-typing-svg.demolab.com?font=outfit&weight=700&size=42&pause=100000&color=FCFEFF&center=true&vCenter=true&width=700&lines=Swastika+Ghosh"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=cinzel=500&size=24&duration=3000&pause=1000&color=BBCCFF&center=true&vCenter=true&width=800&lines=AI+%26+ML+Engineer;Software+Developer;Machine+Learning+Enthusiast;Building+Intelligent+Systems;Turning+Ideas+Into+Impactful+Solutions"/>
 
