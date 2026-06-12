@@ -41,10 +41,7 @@
 
 
 🎓 Pre-final year B.Tech student in Computer Science (AI & ML) at IEM, Kolkata
-🔬 Ex-Research Intern @ IISc Bangalore
-🏆 Winner @ Arjuna Hackathon | Finalist @ ISRO Space Hackathon | Co-Founder @ Binary Learn
-🛠️ Building things at the intersection of ML, full stack dev, and real-world impact
-📌 Project highlights: TarmacSkin 2.0 (accepted at ICDMAI 10th Edition), MicroClag, Smart Invoice Analyser
+📌 Project highlights: FinSight (accepted at ICDMAI 10th Edition)
 🏅 Finalist — Square Hacks, IIT Delhi
 ⚡ Currently exploring deep learning, system design, and scalable backends
 🌱 Seeking ML engineering and full stack internships / collaborations
@@ -56,7 +53,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/swastika-ghosh-741a6128a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=2DD4BF"/></a>
 <a href="https://www.instagram.com/okayyswas_" target="_blank"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=2DD4BF"/></a>
-<a href="mailto:swastika.placeholder@email.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=2DD4BF"/></a>
+<a href="mailto:amiswastika4@email.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=2DD4BF"/></a>
 <a href="https://github.com/whyyyswas" target="_blank"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=2DD4BF"/></a>
 </p>
 <br/>
@@ -144,57 +141,6 @@
 </div>
 
 ---
-
-# Current Focus
-
-```yaml
-learning:
-  - Generative AI
-  - Advanced Deep Learning
-  - MLOps
-  - Cloud Computing
-
-building:
-  - AI-Powered Applications
-  - Computer Vision Systems
-  - Healthcare Intelligence Platforms
-
-exploring:
-  - LLMs
-  - Edge AI
-  - AI Security
-  - Autonomous Systems
-
-open_to:
-  - Internships
-  - Research Roles
-  - Open Source Collaboration
-  - Innovative Startup Opportunities
-```
-
----
-
-# Connect
-
-<div align="center">
-
-<a href="mailto:yourmail@example.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/whyyyswas">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge"/>
-</a>
-
-</div>
 
 ---
 
