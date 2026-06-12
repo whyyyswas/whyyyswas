@@ -8,37 +8,10 @@
 
 <br>
 
-![](https://img.shields.io/badge/B.Tech-CSE(AI%20%26%20ML)-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/Institute-IEM%20Kolkata-4F46E5?style=for-the-badge)
-![](https://img.shields.io/badge/CGPA-8.62-6C63FF?style=for-the-badge)
-
-![](https://img.shields.io/badge/Location-Kolkata,%20India-7C3AED?style=flat-square)
-
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:yourmail@example.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/whyyyswas">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<br>
-
-![](https://komarev.com/ghpvc/?username=whyyyswas&style=flat-square&color=7C3AED)
-
-![](https://img.shields.io/github/followers/whyyyswas?style=flat-square&color=7C3AED)
-
-![](https://img.shields.io/github/stars/whyyyswas?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=7C3AED)
-
 </div>
 
 ---
 🚀 About Me
-
 
 🎓 Pre-final year B.Tech student in Computer Science (AI & ML) at IEM, Kolkata
 📌 Project highlights: FinSight (accepted at ICDMAI 10th Edition)
