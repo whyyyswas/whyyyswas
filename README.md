@@ -37,219 +37,41 @@
 </div>
 
 ---
+🚀 About Me
 
-# About
 
-I am a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning with a passion for building intelligent systems, scalable software products, and impactful real-world solutions.
+🎓 Pre-final year B.Tech student in Computer Science (AI & ML) at IEM, Kolkata
+🔬 Ex-Research Intern @ IISc Bangalore
+🏆 Winner @ Arjuna Hackathon | Finalist @ ISRO Space Hackathon | Co-Founder @ Binary Learn
+🛠️ Building things at the intersection of ML, full stack dev, and real-world impact
+📌 Project highlights: TarmacSkin 2.0 (accepted at ICDMAI 10th Edition), MicroClag, Smart Invoice Analyser
+🏅 Finalist — Square Hacks, IIT Delhi
+⚡ Currently exploring deep learning, system design, and scalable backends
+🌱 Seeking ML engineering and full stack internships / collaborations
 
-My interests span across machine learning, deep learning, software engineering, computer vision, data science, full-stack development, and AI-driven product innovation.
 
-I enjoy transforming complex ideas into practical applications while continuously exploring emerging technologies that shape the future of intelligent computing.
+<br/>
+🔗 Connect with me
 
-### Open To
-
-- Software Engineering Internships
-- AI / ML Internships
-- Research Collaborations
-- Open Source Contributions
-- Innovative Product Development
-
----
-
-# Tech Stack
-
-## Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,js,mysql"/>
+<p align="left">
+<a href="https://www.linkedin.com/in/swastika-ghosh-741a6128a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=2DD4BF"/></a>
+<a href="https://www.instagram.com/okayyswas_" target="_blank"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=2DD4BF"/></a>
+<a href="mailto:swastika.placeholder@email.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=2DD4BF"/></a>
+<a href="https://github.com/whyyyswas" target="_blank"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=2DD4BF"/></a>
 </p>
+<br/>
+🧰 Tech Stack
 
-## Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,html,css,react,nodejs,flask&theme=dark"/>
 </p>
-
-## Backend & Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=flask,nodejs,mysql,sqlite"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,mongodb,mysql,git,github,docker,vscode&theme=dark"/>
 </p>
-
-## Cloud, DevOps & Tooling
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
-</p>
+<br/>
 
 ---
 
-# AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|----------|------------|------------|
-| Machine Learning | Advanced | Classification, Regression, Ensemble Learning |
-| Deep Learning | Intermediate | CNN, RNN, LSTM Architectures |
-| Computer Vision | Intermediate | OCR, Recognition Systems, Image Processing |
-| Data Science | Advanced | EDA, Feature Engineering, Visualization |
-| Predictive Analytics | Advanced | Risk Modeling & Forecasting |
-| Speech Processing | Intermediate | Audio Analysis & Emotion Detection |
-| Software Engineering | Advanced | Full Development Lifecycle |
-| Artificial Intelligence | Advanced | Intelligent Systems Design |
-
----
-
-# Featured Projects
-
-<details>
-<summary><b>Credit Score Predictor</b></summary>
-
-<br>
-
-| Category | Details |
-|----------|----------|
-| Stack | Python, Flask, Scikit-Learn, XGBoost |
-| Scale | End-to-End ML Pipeline |
-| Performance | Optimized Classification System |
-| Security | Secure Prediction Workflow |
-| Impact | Financial Risk Assessment |
-| Repository | Private / Available on Request |
-
-</details>
-
-<details>
-<summary><b>Handwritten Character Recognition</b></summary>
-
-<br>
-
-| Category | Details |
-|----------|----------|
-| Stack | Python, TensorFlow, OpenCV |
-| Scale | Deep Learning Pipeline |
-| Performance | CNN-Based Recognition |
-| Security | Controlled Processing Environment |
-| Impact | Automated Character Identification |
-| Repository | Available on GitHub |
-
-</details>
-
-<details>
-<summary><b>Handwritten Text Recognition</b></summary>
-
-<br>
-
-| Category | Details |
-|----------|----------|
-| Stack | Python, CRNN, OpenCV |
-| Scale | Document-Level Recognition |
-| Performance | Sequence Prediction Architecture |
-| Security | Secure File Handling |
-| Impact | OCR Automation |
-| Repository | Available on GitHub |
-
-</details>
-
-<details>
-<summary><b>Emotion Recognition from Speech</b></summary>
-
-<br>
-
-| Category | Details |
-|----------|----------|
-| Stack | Python, TensorFlow, Librosa |
-| Scale | Audio Processing Pipeline |
-| Performance | Deep Learning-Based Prediction |
-| Security | Local Inference System |
-| Impact | Human Emotion Analysis |
-| Repository | Available on GitHub |
-
-</details>
-
-<details>
-<summary><b>EmoPreserve</b></summary>
-
-<br>
-
-| Category | Details |
-|----------|----------|
-| Stack | AI, IoT, Embedded Systems |
-| Scale | Healthcare Monitoring Solution |
-| Performance | Real-Time Analytics |
-| Security | Patient Monitoring Framework |
-| Impact | Alzheimer's Patient Assistance |
-| Repository | Under Development |
-
-</details>
-
-<details>
-<summary><b>AI-Based Border Intrusion Detection System</b></summary>
-
-<br>
-
-| Category | Details |
-|----------|----------|
-| Stack | Computer Vision, Thermal Imaging |
-| Scale | Security Intelligence Platform |
-| Performance | Automated Threat Detection |
-| Security | High-Security Deployment Focus |
-| Impact | Border Surveillance Enhancement |
-| Repository | Research Phase |
-
-</details>
-
----
-
-# Experience
-
-### AI & Machine Learning Developer
-
-**Independent Projects & Research**
-
-2024 – Present
-
-- Designed and developed multiple machine learning systems.
-- Built predictive analytics solutions.
-- Developed computer vision applications.
-- Implemented deep learning architectures.
-- Worked on AI-driven healthcare and security solutions.
-- Created full-stack interfaces for machine learning deployment.
-
-**Skills**
-
-`Python` `Machine Learning` `Deep Learning` `Flask` `Computer Vision` `Data Science`
-
----
-
-# Achievements
-
-| Recognition | Details |
-|------------|---------|
-| IEEE Participant | Active participation in technical events and competitions |
-| Project Development | Multiple AI & ML solutions built from concept to deployment |
-| Research Exploration | Working across healthcare, finance, and security domains |
-| Open Source Learning | Continuous contribution to learning and development ecosystem |
-
----
-
-# Certifications
-
-## AWS
-
-![](https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge&logo=amazonaws)
-
-## Oracle
-
-![](https://img.shields.io/badge/Oracle-Certified-F80000?style=for-the-badge&logo=oracle)
-
-## Cisco
-
-![](https://img.shields.io/badge/Cisco-Networking-049FD9?style=for-the-badge&logo=cisco)
-
-## NPTEL
-
-![](https://img.shields.io/badge/NPTEL-Certified-7C3AED?style=for-the-badge)
-
----
 
 # Coding Profiles
 
