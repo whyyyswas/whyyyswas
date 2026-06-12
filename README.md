@@ -2,8 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=42&pause=100000&color=C9A227&center=true&vCenter=true&width=700&lines=Swastika+Ghosh"/>
 
-# Swastika Ghosh
-
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=AI+%26+ML+Engineer;Software+Developer;Machine+Learning+Enthusiast;Building+Intelligent+Systems;Turning+Ideas+Into+Impactful+Solutions"/>
 
 <br>
