@@ -43,9 +43,17 @@ I train models that work, then spend three times longer building the app around 
 
 <br/>
 
-<div align="center">
+<h2 align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=32&duration=1000&pause=700&color=FFFFFF&center=true&vCenter=true&width=500&height=45&lines=%3C%2F%3E+Tech+Stack+%3C%2F%3E;%E3%80%88%E3%80%89+Tech+Stack+%E3%80%88%E3%80%89;%7B+Tech+Stack+%7D;%28+Tech+Stack+%29" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=900&pause=600&color=1950B5&center=true&vCenter=true&width=60&height=32&lines=%3C%2F%3E;%E3%80%88%E3%80%89;%7B%7D" />
+
+<span style="position:relative; top:6px;">
+&nbsp; Tech Stack &nbsp;
+</span>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=900&pause=600&color=1950B5&center=true&vCenter=true&width=60&height=32&lines=%3C%2F%3E;%E3%80%88%E3%80%89;%7B%7D" />
+
+</h2>
 
 </div>
 
