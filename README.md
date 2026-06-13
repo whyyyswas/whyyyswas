@@ -45,11 +45,13 @@ I train models that work, then spend three times longer building the app around 
 
 <h2 align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=900&pause=600&color=1950B5&center=true&vCenter=true&width=60&height=32&lines=%3C%2F%3E;%E3%80%88%E3%80%89;%7B%7D" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=900&pause=600&color=1950B5&center=true&vCenter=true&width=60&height=32&lines=%3C%2F%3E;%E3%80%88%E3%80%89;%7B%7D;" />
 
-<sup>Tech Stack</sup>
+<span>
+&nbsp; Tech Stack &nbsp;
+</span>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=900&pause=600&color=1950B5&center=true&vCenter=true&width=60&height=32&lines=%3C%2F%3E;%E3%80%88%E3%80%89;%7B%7D" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=900&pause=600&color=1950B5&center=true&vCenter=true&width=60&height=32&lines=%3C%2F%3E;%E3%80%88%E3%80%89;%7B%7D;" />
 
 </h2>
 
