@@ -1,15 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/whyyyswas/whyyyswas/main/assets/cover-image.svg" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=poppins&weight=700&size=42&pause=100000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hey!+I'm+Swastika"/>
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=poppins&weight=700&size=42&pause=100000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hey!+I'm+Swastika"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=AI+%26+ML+Engineer;Software+Developer;Machine+Learning+Enthusiast;Building+Intelligent+Systems;Turning+Ideas+Into+Impactful+Solutions;Full+Stack+Web+Developer"/>
+<img src="https://readme-typing-svg.demolab.com?font=cinzel=500&size=24&duration=3000&pause=1000&color=NOEB8D&center=true&vCenter=true&width=800&lines=AI+%26+ML+Engineer;Software+Developer;Machine+Learning+Enthusiast;Building+Intelligent+Systems;Turning+Ideas+Into+Impactful+Solutions;Full+Stack+Web+Developer"/>
 
 <br>
-
 </div>
 
 ---
@@ -50,7 +45,7 @@ I train models that work, then spend three times longer building the app around 
 
 <h2 align="center">
 
-Tech Stack <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=24&duration=2000&pause=800&color=4FC3F7&center=true&vCenter=true&width=120&height=40&lines=%E3%80%88%E3%80%89;%3C%2F%3E;%7B+%7D" />
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=24&duration=2000&pause=800&color=4FC3F7&center=true&vCenter=true&width=60&height=40&lines=%E3%80%88%E3%80%89;%3C%2F%3E;%7B+%7D" /> Tech Stack <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=24&duration=2000&pause=800&color=4FC3F7&center=true&vCenter=true&width=60&height=40&lines=%E3%80%88%E3%80%89;%3C%2F%3E;%7B+%7D" />
 
 </h2>
 
@@ -150,7 +145,7 @@ Tech Stack <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=70
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/whyyyswas/whyyyswas/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
