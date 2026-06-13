@@ -44,9 +44,15 @@ I train models that work, then spend three times longer building the app around 
 <br/>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=1000&pause=800&color=1950B5&center=true&vCenter=true&width=50&height=32&lines=%3C%2F%3E;%E3%80%88%E3%80%89;%7B%7D" style="vertical-align:middle;"/>
-  &nbsp;Tech Stack&nbsp;
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=1000&pause=800&color=1950B5&center=true&vCenter=true&width=50&height=32&lines=%3C%2F%3E;%E3%80%88%E3%80%89;%7B%7D" style="vertical-align:middle;"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=900&pause=600&color=1950B5&center=true&vCenter=true&width=60&height=32&lines=%3C%2F%3E;%E3%80%88%E3%80%89;%7B%7D" />
+
+<span style="position:relative; top:-6px;">
+&nbsp; Tech Stack &nbsp;
+</span>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=900&pause=600&color=1950B5&center=true&vCenter=true&width=60&height=32&lines=%3C%2F%3E;%E3%80%88%E3%80%89;%7B%7D" />
+
 </h2>
 
 <div align="center">
