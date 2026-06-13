@@ -1,41 +1,59 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=poppins&weight=700&size=42&pause=100000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hey!+I'm+Swastika"/>
+<img src="https://raw.githubusercontent.com/whyyyswas/whyyyswas/main/assets/cover-image.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=cinzel=500&size=24&duration=3000&pause=1000&color=NOEB8D&center=true&vCenter=true&width=800&lines=AI+%26+ML+Engineer;Software+Developer;Machine+Learning+Enthusiast;Building+Intelligent+Systems;Turning+Ideas+Into+Impactful+Solutions;Full+Stack+Web+Developer"/>
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=poppins&weight=700&size=42&pause=100000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hey!+I'm+Swastika"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=AI+%26+ML+Engineer;Software+Developer;Machine+Learning+Enthusiast;Building+Intelligent+Systems;Turning+Ideas+Into+Impactful+Solutions;Full+Stack+Web+Developer"/>
 
 <br>
 
 </div>
 
 ---
+
 ## 🚀 About Me
 
-- 🎓 Final Year B.Tech in Computer Science (AI & ML) at IEM, Kolkata
-- 📌 FinSight accepted at ICDMAI 10th Edition
-- 🏅 Finalist — Square Hacks, IIT Delhi
-- 💻 Passionate about AI, Machine Learning, and Software Engineering
-- ⚡ Exploring Deep Learning, System Design, and Scalable Backends
-- 🌱 Seeking ML Engineering, Software Development, and Full Stack Opportunities
-- 🤝 Open to internships, collaborations, and impactful projects
+Final year CS (AI & ML) student at IEM, Kolkata — professionally caffeinated, occasionally functional.
+
+I train models that work, then spend three times longer building the app around them so a human doesn't have to open a Jupyter notebook to use it. FinSight got accepted at ICDMAI 10th Edition, which is a fancy way of saying a panel of academics looked at my code and didn't immediately ask "but why." Also made it to the finals at Square Hacks, IIT Delhi — turns out sleep deprivation is a competitive advantage at hackathons.
+
+<div align="center">
+
+| | |
+|---|---|
+| 🔭 **Currently building** | ML systems that don't fall apart the moment a real user touches them |
+| 🧪 **Research** | FinSight — accepted at ICDMAI 10th Edition (yes, it's real, I checked) |
+| 🏅 **Recent flex** | Finalist, Square Hacks @ IIT Delhi |
+| 🌱 **Learning** | Deep learning, system design, and how to make backends that don't cry under load |
+| 🤝 **Open to** | ML/SWE internships, full stack roles, and projects that sound slightly too ambitious |
+| ⚡ **Status** | `git commit -m "fixed it for real this time"` |
+
+</div>
 
 <br/>
-🔗 Connect with me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/swastika-ghosh-741a6128a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=2DD4BF"/></a>
-<a href="https://www.instagram.com/okayyswas_" target="_blank"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=2DD4BF"/></a>
-<a href="mailto:amiswastika4@email.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=2DD4BF"/></a>
-<a href="https://github.com/whyyyswas" target="_blank"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=2DD4BF"/></a>
-</p>
+<div align="center">
+
+### 🔗 Connect with me
+
+<a href="https://www.linkedin.com/in/swastika-ghosh-741a6128a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=A78BFA"/></a>
+<a href="https://www.instagram.com/okayyswas_" target="_blank"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=A78BFA"/></a>
+<a href="mailto:amiswastika4@email.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=A78BFA"/></a>
+<a href="https://github.com/whyyyswas" target="_blank"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=A78BFA"/></a>
+
+</div>
+
 <br/>
-
 
 <h2 align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=OUTFIT&weight=700&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=%E3%80%88%E3%80%89+Tech+Stack+%E3%80%88%E3%80%89;%3C%2F%3E+Tech+Stack+%3C%2F%3E;%7B+Tech+Stack+%7D" />
+Tech Stack <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=24&duration=2000&pause=800&color=4FC3F7&center=true&vCenter=true&width=120&height=40&lines=%E3%80%88%E3%80%89;%3C%2F%3E;%7B+%7D" />
 
 </h2>
+
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
@@ -65,7 +83,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 
 </div>
-
 
 # Coding Profiles
 
@@ -133,11 +150,8 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/whyyyswas/whyyyswas/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
 ---
-
-
-</div>
